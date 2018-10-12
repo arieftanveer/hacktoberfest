@@ -1,4 +1,4 @@
-# Contribution rules
+# Contribution rules #
 
 - Project must work when opening index.html
 - You are allowed to make pull requests that break the rules. We just won't merge it ;)
